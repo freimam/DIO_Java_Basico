@@ -1,3 +1,5 @@
 # DIO_Java_Basico
 Repositório dos exercicios
-Alterando de forma local
+
+
+https://glysns.gitbook.io/java-basico
